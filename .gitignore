@@ -1,4 +1,4 @@
-/resources/public/js/compiled/**
+/resources/public/js/**
 figwheel_server.log
 pom.xml
 *jar
@@ -11,3 +11,6 @@ pom.xml
 .lein-plugins/
 .repl
 .nrepl-port
+node_modules/
+package-lock.json
+.shadow-cljs/
